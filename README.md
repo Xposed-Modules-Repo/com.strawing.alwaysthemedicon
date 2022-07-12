@@ -2,7 +2,7 @@
 
 [简体中文](#%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-simplified-chinese)
 
-[![Download](https://img.shields.io/github/downloads/liyafe1997/AlwaysThemedIcon/total)](https://github.com/liyafe1997/AlwaysThemedIcon/releases)
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.strawing.alwaysthemedicon/total)](https://github.com/Xposed-Modules-Repo/com.strawing.alwaysthemedicon/releases)
 ## Introduction
 
 This module can let third party launcher always use icons with MIUI Themes. It may also work with other custom Android based OS, if they have the same logic of the theme and icon stuff.
