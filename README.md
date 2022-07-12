@@ -5,6 +5,7 @@
 [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.strawing.alwaysthemedicon/total)](https://github.com/Xposed-Modules-Repo/com.strawing.alwaysthemedicon/releases)
 ## Introduction
 
+
 This module can let third party launcher always use icons with MIUI Themes. It may also work with other custom Android based OS, if they have the same logic of the theme and icon stuff.
 
 The left one is Apex Launcher without this module, the right one is with this module enabled.
